@@ -25,7 +25,7 @@ const WorldHeritageSite = () => {
         <div className="imageAndText">
           <img src={`../images/products/${oneSite.image}`} alt="imagea" />
           <div className="siteText">
-            <h3>{oneSite.car}</h3>
+            <h3>{oneSite.site_name}</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
               delectus ea dolore suscipit. Facilis harum dolorem, pariatur ipsa

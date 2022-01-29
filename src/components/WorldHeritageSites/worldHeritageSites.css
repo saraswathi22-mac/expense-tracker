@@ -29,7 +29,10 @@
 }
 
 .card img {
-  width: 90%;
-  max-height: 75%;
-  margin-top: 10%;
+  width: 100%;
+  height: 15rem;
+}
+
+.card_text {
+  padding: 5px;
 }
