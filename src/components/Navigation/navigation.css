@@ -1,0 +1,36 @@
+.navigationBar {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+}
+
+.logoImage {
+  width: 50px;
+  margin: 15px 30px;
+}
+
+.dropdownIcon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 35px;
+  height: 12px;
+  margin: 0 30px;
+}
+
+.dropdownIcon .bar {
+  background-color: gray;
+  height: 3px;
+  width: 100%;
+}
+
+.dropdownIcon .third {
+  width: 60%;
+  margin-left: 40%;
+}
+
+.app-name h1 {
+  font-size: 3rem;
+  color: firebrick;
+}
