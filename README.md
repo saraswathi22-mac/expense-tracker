@@ -1,1 +1,1 @@
-# world-heritage-sites
+# basic-javascript-problems
